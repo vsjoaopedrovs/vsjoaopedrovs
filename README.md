@@ -26,12 +26,14 @@
 ### 📊 Github Insights
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vsjoaopedrovs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vsjoaopedrovs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsjoaopedrovs&theme=tokyonight&layout=compact&langs_count=8&hide=jupyter%20notebook,html" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsjoaopedrovs&theme=tokyonight&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css" />
 </p>
 
----
+<p align="left">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vsjoaopedrovs&theme=tokyonight" />
+</p>
 
 ### 🌐 Conecte-se comigo
 <p align="left">

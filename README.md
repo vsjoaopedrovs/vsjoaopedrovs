@@ -26,13 +26,8 @@
 ### 📊 Github Insights
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vsjoaopedrovs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsjoaopedrovs&theme=tokyonight&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css" />
-</p>
-
-<p align="left">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vsjoaopedrovs&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/RoboCup%202026-South%20Korea-blue?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/LARC%20Champion-Gold%20Medal-yellow?style=for-the-badge&logo=medal&logoColor=white" />
 </p>
 
 ### 🌐 Conecte-se comigo

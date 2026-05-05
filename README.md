@@ -31,8 +31,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsjoaopedrovs&theme=tokyonight&layout=compact&langs_count=8&hide=jupyter%20notebook,html" />
 </p>
 
-> **Nota sobre as linguagens:** Eu utilizo Jupyter Notebooks para experimentação e prototipagem de modelos de IA, o que pode inflar as estatísticas. Meu foco real em produção é **C++** e **Python**.
-
 ---
 
 ### 🌐 Conecte-se comigo

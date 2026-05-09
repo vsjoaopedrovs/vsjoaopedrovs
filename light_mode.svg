@@ -34,7 +34,7 @@ text, tspan { white-space: pre; }
 <!-- Antenna -->
 <line x1="185" y1="55" x2="185" y2="83" stroke="#0969da" stroke-width="3" stroke-linecap="round"/>
 <circle cx="185" cy="46" r="11" fill="#0969da" filter="url(#glow)"/>
-<circle cx="185" cy="46" r="6"  fill="#cae8ff"/>
+<circle cx="185" cy="46" r="6" fill="#cae8ff"/>
 
 <!-- Head -->
 <rect x="120" y="83" width="130" height="102" rx="20" fill="#d0d7de" stroke="#0969da" stroke-width="2"/>
@@ -42,12 +42,12 @@ text, tspan { white-space: pre; }
 <!-- Left eye -->
 <rect x="137" y="105" width="38" height="32" rx="7" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/>
 <rect x="143" y="111" width="26" height="20" rx="4" fill="#0969da" filter="url(#glow)"/>
-<rect x="149" y="114" width="8"  height="7"  rx="2" fill="#ffffff" opacity="0.5"/>
+<rect x="149" y="114" width="8" height="7" rx="2" fill="#ffffff" opacity="0.5"/>
 
 <!-- Right eye -->
 <rect x="195" y="105" width="38" height="32" rx="7" fill="#ffffff" stroke="#0969da" stroke-width="1.5"/>
 <rect x="201" y="111" width="26" height="20" rx="4" fill="#0969da" filter="url(#glow)"/>
-<rect x="207" y="114" width="8"  height="7"  rx="2" fill="#ffffff" opacity="0.5"/>
+<rect x="207" y="114" width="8" height="7" rx="2" fill="#ffffff" opacity="0.5"/>
 
 <!-- Mouth -->
 <rect x="150" y="157" width="70" height="12" rx="6" fill="#0969da" opacity="0.85"/>
@@ -72,7 +72,7 @@ text, tspan { white-space: pre; }
 <rect x="132" y="257" width="35" height="5" rx="2" fill="#e3b341" opacity="0.70"/>
 <rect x="172" y="257" width="55" height="5" rx="2" fill="#79c0ff" opacity="0.60"/>
 <rect x="132" y="270" width="78" height="5" rx="2" fill="#3fb950" opacity="0.50"/>
-<rect x="132" y="283" width="9"  height="5" rx="1" fill="#f0f6fc" opacity="0.75"/>
+<rect x="132" y="283" width="9" height="5" rx="1" fill="#f0f6fc" opacity="0.75"/>
 
 <!-- Chest buttons -->
 <circle cx="140" cy="307" r="8" fill="#cf222e" filter="url(#softglow)"/>
@@ -82,39 +82,39 @@ text, tspan { white-space: pre; }
 <circle cx="232" cy="307" r="8" fill="#8250df" filter="url(#softglow)"/>
 
 <!-- Left arm -->
-<circle cx="97"  cy="212" r="9" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
-<rect x="54"  y="208" width="42" height="108" rx="13" fill="#d0d7de" stroke="#0969da" stroke-width="1.5"/>
-<rect x="47"  y="307" width="49" height="36"  rx="11" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
-<rect x="47"  y="307" width="11" height="18"  rx="5"  fill="#d0d7de"/>
-<rect x="62"  y="307" width="11" height="22"  rx="5"  fill="#d0d7de"/>
-<rect x="77"  y="307" width="11" height="20"  rx="5"  fill="#d0d7de"/>
+<circle cx="97" cy="212" r="9" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
+<rect x="54" y="208" width="42" height="108" rx="13" fill="#d0d7de" stroke="#0969da" stroke-width="1.5"/>
+<rect x="47" y="307" width="49" height="36" rx="11" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
+<rect x="47" y="307" width="11" height="18" rx="5" fill="#d0d7de"/>
+<rect x="62" y="307" width="11" height="22" rx="5" fill="#d0d7de"/>
+<rect x="77" y="307" width="11" height="20" rx="5" fill="#d0d7de"/>
 
 <!-- Right arm -->
 <circle cx="273" cy="212" r="9" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
 <rect x="274" y="208" width="42" height="108" rx="13" fill="#d0d7de" stroke="#0969da" stroke-width="1.5"/>
-<rect x="274" y="307" width="49" height="36"  rx="11" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
-<rect x="312" y="307" width="11" height="18"  rx="5"  fill="#d0d7de"/>
-<rect x="297" y="307" width="11" height="22"  rx="5"  fill="#d0d7de"/>
-<rect x="282" y="307" width="11" height="20"  rx="5"  fill="#d0d7de"/>
+<rect x="274" y="307" width="49" height="36" rx="11" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
+<rect x="312" y="307" width="11" height="18" rx="5" fill="#d0d7de"/>
+<rect x="297" y="307" width="11" height="22" rx="5" fill="#d0d7de"/>
+<rect x="282" y="307" width="11" height="20" rx="5" fill="#d0d7de"/>
 
 <!-- Left leg -->
 <circle cx="147" cy="337" r="9" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
 <rect x="121" y="337" width="52" height="102" rx="11" fill="#d0d7de" stroke="#0969da" stroke-width="1.5"/>
-<rect x="107" y="430" width="72" height="28"  rx="11" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
-<rect x="107" y="444" width="72" height="14"  rx="6"  fill="#d0d7de" opacity="0.6"/>
+<rect x="107" y="430" width="72" height="28" rx="11" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
+<rect x="107" y="444" width="72" height="14" rx="6" fill="#d0d7de" opacity="0.6"/>
 
 <!-- Right leg -->
 <circle cx="223" cy="337" r="9" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
 <rect x="197" y="337" width="52" height="102" rx="11" fill="#d0d7de" stroke="#0969da" stroke-width="1.5"/>
-<rect x="191" y="430" width="72" height="28"  rx="11" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
-<rect x="191" y="444" width="72" height="14"  rx="6"  fill="#d0d7de" opacity="0.6"/>
+<rect x="191" y="430" width="72" height="28" rx="11" fill="#afb8c1" stroke="#0969da" stroke-width="1"/>
+<rect x="191" y="444" width="72" height="14" rx="6" fill="#d0d7de" opacity="0.6"/>
 
 <!-- ══════ NEOFETCH INFO ══════ -->
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">joaopedro@vsjoaopedrovs</tspan> -————————————————————————————————-—-
-<tspan x="390" y="50"  class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Linux (Ubuntu), Windows 11</tspan>
-<tspan x="390" y="70"  class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc" id="age_data_dots">: .................... </tspan><tspan class="value" id="age_data">15 years, 8 months, 20 days</tspan>
-<tspan x="390" y="90"  class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: .............. </tspan><tspan class="value">Col&#233;gio Farias Brito, Cear&#225; &#x1F1E7;&#x1F1F7;</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Linux (Ubuntu), Windows 11</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc" id="age_data_dots"></tspan><tspan class="value" id="age_data">16 years, 8 months, 20 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: .............. </tspan><tspan class="value">Colégio Farias Brito, Ceará 🇧🇷</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ......... </tspan><tspan class="value">Software &amp; Robotics Dev | AI &amp; CV</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">VSCode, Jupyter Notebook</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
@@ -122,15 +122,15 @@ text, tspan { white-space: pre; }
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">AI.Vision</tspan><tspan class="cc">: ... </tspan><tspan class="value">TensorFlow, Keras, OpenCV</tspan>
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Markup</tspan><tspan class="cc">: ........... </tspan><tspan class="value">JSON, YAML</tspan>
 <tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Achievement</tspan>.<tspan class="key">Robotics</tspan><tspan class="cc">: .. </tspan><tspan class="value">RoboCup 2026 &#x1F1F0;&#x1F1F7; South Korea</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Achievement</tspan>.<tspan class="key">Robotics</tspan><tspan class="cc">: .. </tspan><tspan class="value">LARC Champion &#x1F947; Gold Medal</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Achievement</tspan>.<tspan class="key">Robotics</tspan><tspan class="cc">: .. </tspan><tspan class="value">RoboCup 2026 🇰🇷 South Korea</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Achievement</tspan>.<tspan class="key">Robotics</tspan><tspan class="cc">: .. </tspan><tspan class="value">LARC Champion 🥇 Gold Medal</tspan>
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">YouTube</tspan><tspan class="cc">: ................................. </tspan><tspan class="value">@JoaoPedro-xg5hr</tspan>
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Instagram</tspan><tspan class="cc">: ..................................... </tspan><tspan class="value">@joaopvs09</tspan>
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: ..................................... </tspan><tspan class="value">vsjoaopedrovs</tspan>
 <tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc" id="repo_data_dots">: .... </tspan><tspan class="value" id="repo_data">0</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">0</tspan>} | <tspan class="key">Stars</tspan><tspan class="cc" id="star_data_dots">: ........... </tspan><tspan class="value" id="star_data">0</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc" id="commit_data_dots">: .................. </tspan><tspan class="value" id="commit_data">0</tspan> | <tspan class="key">Followers</tspan><tspan class="cc" id="follower_data_dots">: ....... </tspan><tspan class="value" id="follower_data">0</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="cc" id="loc_data_dots">:. </tspan><tspan class="value" id="loc_data">0</tspan> ( <tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan> )
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">16</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">16</tspan>} | <tspan class="key">Stars</tspan><tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">3</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">118</tspan> | <tspan class="key">Followers</tspan><tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">6</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="cc" id="loc_data_dots"> ... </tspan><tspan class="value" id="loc_data">33,211</tspan> ( <tspan class="addColor" id="loc_add">34,498</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots">. </tspan><tspan class="delColor" id="loc_del">1,287</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>

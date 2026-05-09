@@ -119,7 +119,7 @@ text, tspan { white-space: pre; }
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">VSCode, Jupyter Notebook</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan><tspan class="cc">: ....... </tspan><tspan class="value">C++, Python, Dart</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">AI.Vision</tspan><tspan class="cc">: ... </tspan><tspan class="value">TensorFlow, Keras, OpenCV, MediaPipe</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">AI.Vision</tspan><tspan class="cc">: ... </tspan><tspan class="value">TensorFlow, Keras, OpenCV</tspan>
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Markup</tspan><tspan class="cc">: ........... </tspan><tspan class="value">JSON, YAML</tspan>
 <tspan x="390" y="230" class="cc">. </tspan>
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Achievement</tspan>.<tspan class="key">Robotics</tspan><tspan class="cc">: .. </tspan><tspan class="value">RoboCup 2026 &#x1F1F0;&#x1F1F7; South Korea</tspan>
